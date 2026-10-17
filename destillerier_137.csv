@@ -1,0 +1,138 @@
+﻿Nummer,Destilleri,Region,Breddegrad,Lengdegrad,TasteSCOT slug
+1,Glenfiddich,speyside,57.4525,-3.1338,glenfiddich
+2,Lagavulin,islay,55.6353,-6.1268,lagavulin
+3,Auchentoshan,lowland,55.9133,-4.4439,auchentoshan
+4,Springbank,campbeltown,55.4254,-5.6079,springbank
+5,Highland Park,islands,58.9636,-2.9544,highland-park
+6,Oban,highland,56.4125,-5.4733,oban
+7,Bruichladdich,islay,55.7714,-6.3611,bruichladdich
+8,The Macallan,speyside,57.4858,-3.2144,macallan
+9,The Glenlivet,speyside,57.328,-3.281,the-glenlivet
+10,Aberlour,speyside,57.466,-3.224,aberlour
+11,The Balvenie,speyside,57.4486,-3.1283,the-balvenie
+12,Cardhu,speyside,57.4222,-3.4164,cardhu
+13,Cragganmore,speyside,57.4189,-3.3597,cragganmore
+14,Glenfarclas,speyside,57.4272,-3.3182,glenfarclas
+15,The Glenrothes,speyside,57.5114,-3.1817,the-glenrothes
+16,Glen Grant,speyside,57.5197,-3.1814,glen-grant
+17,Glen Moray,speyside,57.6433,-3.3322,glen-moray
+18,Linkwood,speyside,57.6325,-3.3017,linkwood
+19,Mortlach,speyside,57.4419,-3.1303,mortlach
+20,Strathisla,speyside,57.54649,-2.95427,strathisla
+21,Tamdhu,speyside,57.4319,-3.4022,tamdhu
+22,Tamnavulin,speyside,57.3175,-3.3081,tamnavulin
+23,Tomintoul,speyside,57.2486,-3.3722,tomintoul
+24,Knockando,speyside,57.4292,-3.4361,knockando
+25,BenRiach,speyside,57.6111,-3.2864,benriach
+26,Benromach,speyside,57.6225,-3.6353,benromach
+27,Speyburn,speyside,57.5267,-3.1842,speyburn
+28,Aultmore,speyside,57.5683,-2.9417,aultmore
+29,Longmorn,speyside,57.6275,-3.2722,longmorn
+30,Miltonduff,speyside,57.6,-3.3833,miltonduff
+31,Glentauchers,speyside,57.5631,-3.0078,glentauchers
+32,Roseisle,speyside,57.6789,-3.4533,roseisle
+33,Laphroaig,islay,55.63,-6.152,laphroaig
+34,Ardbeg,islay,55.639,-6.108,ardbeg
+35,Bowmore,islay,55.7594,-6.2878,bowmore
+36,Bunnahabhain,islay,55.883,-6.128,bunnahabhain
+37,Caol Ila,islay,55.863,-6.105,caol-ila
+38,Kilchoman,islay,55.7939,-6.4467,kilchoman
+39,Ardnahoe,islay,55.886,-6.1,ardnahoe
+40,Glen Scotia,campbeltown,55.4267,-5.6069,glen-scotia
+41,Glengyle (Kilkerran),campbeltown,55.4256,-5.6089,glengyle
+42,The Dalmore,highland,57.6884,-4.2395,dalmore
+43,Glenmorangie,highland,57.828,-4.033,glenmorangie
+44,Old Pulteney,highland,58.437,-3.088,old-pulteney
+45,Dalwhinnie,highland,56.942,-4.247,dalwhinnie
+46,Aberfeldy,highland,56.624,-3.846,aberfeldy
+47,Edradour,highland,56.709,-3.694,edradour
+48,Tomatin,highland,57.342,-3.995,tomatin
+49,Clynelish,highland,58.005,-3.78,clynelish
+50,Balblair,highland,57.8401,-4.1808,balblair
+51,GlenDronach,highland,57.552,-2.619,glendronach
+52,Ben Nevis,highland,56.825,-5.086,ben-nevis
+53,Ardnamurchan,highland,56.6921,-5.9395,ardnamurchan
+54,Bladnoch,lowland,54.8781,-4.4364,bladnoch
+55,Glenkinchie,lowland,55.9156,-2.8494,glenkinchie
+56,Daftmill,lowland,56.3044,-3.1844,daftmill
+57,Lindores Abbey,lowland,56.3509,-3.238,lindores-abbey
+58,Ailsa Bay,lowland,55.2362,-4.8569,ailsa-bay
+59,InchDairnie,lowland,56.1992,-3.1683,inchdairnie
+60,Kingsbarns,lowland,56.2986,-2.6472,kingsbarns
+61,Annandale,lowland,54.9969,-3.2606,annandale
+62,Talisker,islands,57.3013,-6.3598,talisker
+63,Isle of Raasay,islands,57.3547,-6.0769,isle-of-raasay
+64,Tobermory,islands,56.6218,-6.07,tobermory
+65,Jura,islands,55.8661,-5.9578,jura
+66,Lochranza (Isle of Arran),islands,55.7128,-5.2933,arran
+67,Torabhaig,islands,57.1508,-5.9211,torabhaig
+68,Isle of Harris,islands,57.8977,-6.8039,isle-of-harris
+69,Scapa,islands,58.9378,-2.9525,scapa
+70,Deanston,highland,56.1856,-4.0547,deanston
+71,Tullibardine,highland,56.2633,-3.7975,tullibardine
+72,Glen Garioch,highland,57.2972,-2.3192,glen-garioch
+73,Royal Brackla,highland,57.4967,-3.8778,royal-brackla
+74,Wolfburn,highland,58.5958,-3.5439,wolfburn
+75,Brora,highland,58.01,-3.8539,brora
+76,Royal Lochnagar,highland,57.0301,-3.2016,royal-lochnagar
+77,Lagg (Isle of Arran),islands,55.4389,-5.2914,lagg
+78,Dufftown,speyside,57.4431,-3.1331,dufftown
+79,Craigellachie,speyside,57.4869,-3.1669,craigellachie
+80,Dailuaine,speyside,57.4192,-3.3689,dailuaine
+81,Inchgower,speyside,57.6544,-2.9858,inchgower
+82,Mannochmore,speyside,57.55,-3.2431,mannochmore
+83,Tormore,speyside,57.3636,-3.4847,tormore
+84,Auchroisk,speyside,57.5483,-3.1157,auchroisk
+85,Allt-a-Bhainne,speyside,57.3789,-3.2969,allt-a-bhainne
+86,Braeval,speyside,57.2631,-3.3725,braeval
+87,Fettercairn,highland,56.8361,-2.5331,fettercairn
+88,Blair Athol,highland,56.7011,-3.7297,blair-athol
+89,Knockdhu (anCnoc),highland,57.5269,-2.775,knockdhu
+90,Glen Ord,highland,57.5189,-4.4597,glen-ord
+91,Loch Lomond,highland,55.9894,-4.5742,loch-lomond
+92,Nc'nean,highland,56.6306,-5.9736,ncnean
+93,Ardmore,highland,57.3858,-2.7511,ardmore
+94,Glengoyne,highland,56.0419,-4.3467,glengoyne
+95,Teaninich,highland,57.6847,-4.2583,teaninich
+96,The Glenturret,highland,56.3772,-3.8694,glenturret
+97,Port Ellen,islay,55.6253,-6.1797,port-ellen
+98,Portintruan,islay,55.6381,-6.1986,portintruan
+99,Ballindalloch,speyside,57.4194,-3.375,ballindalloch
+100,GlenAllachie,speyside,57.4558,-3.2394,glenallachie
+101,Glenburgie,speyside,57.6223,-3.5185,glenburgie
+102,Dalmunach,speyside,57.4289,-3.3739,dalmunach
+103,Kininvie,speyside,57.4592,-3.1297,kininvie
+104,Glen Spey,speyside,57.5219,-3.2225,glen-spey
+105,Arbikie,highland,56.6311,-2.6297,arbikie
+106,GlenWyvis,highland,57.595,-4.4344,glenwyvis
+107,Dornoch,highland,57.8794,-4.0294,dornoch
+108,The Cairn,highland,57.3486,-3.6147,the-cairn
+109,Glenglassaugh,highland,57.6799,-2.7378,glenglassaugh
+110,Holyrood,lowland,55.9458,-3.1769,holyrood
+111,The Borders Distillery,lowland,55.4233,-2.7869,the-borders
+112,Clydeside,lowland,55.8619,-4.2869,clydeside
+113,Eden Mill,lowland,56.3689,-2.8128,eden-mill
+114,Benrinnes,speyside,57.3906,-3.2806,benrinnes
+115,Glen Elgin,speyside,57.6108,-3.3564,glen-elgin
+116,Glenlossie,speyside,57.5986,-3.3458,glenlossie
+117,Strathmill,speyside,57.5886,-3.3678,strathmill
+118,Macduff,highland,57.6689,-2.5003,macduff
+119,Rosebank,lowland,56.0008,-3.7856,rosebank
+120,Jackton Distillery,lowland,55.7333,-4.1667,jackton
+121,Port of Leith Distillery,lowland,55.9725,-3.1675,port-of-leith
+122,Glen Keith,speyside,57.5383,-2.955,glen-keith
+123,The Galloway Distillery,lowland,55.0833,-4.0667,crafty-distillery
+124,Ardgowan Distillery,lowland,55.945,-4.7567,ardgowan
+125,Toulvaddie,highland,57.7642,-3.9278,toulvaddie
+126,8 Doors Distillery,highland,58.4372,-3.0944,8-doors
+127,Strathearn Distillery,highland,56.3333,-3.8,strathearn
+128,Falkirk Distillery,lowland,56.0018,-3.7867,falkirk-distillery
+129,Abhainn Dearg,islands,58.1917,-7.0833,abhainn-dearg
+130,The Glasgow Distillery Co,lowland,55.862869,-4.359565,glasgow-distillery
+131,Lone Wolf (BrewDog Distillery),highland,57.3667,-2.0833,lone-wolf
+132,Lochlea Distillery,lowland,55.5044,-4.4514,lochlea
+133,Saxa Vord,islands,60.824,-0.843,saxa-vord
+134,The Cabrach,speyside,57.368488,-3.025213,cabrach
+135,Uile-bheist,highland,57.473969,-4.226304,uile-bheist
+136,Burnobennie,highland,57.063079,-2.471623,burnobennie
+137,Ardross Distillery,highland,57.7396731,-4.3381562,ardross
